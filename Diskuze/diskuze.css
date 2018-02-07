@@ -1,0 +1,54 @@
+﻿/* CSS Document */
+      html {
+        background-color: rgba(220,220,220,0.2);
+      }
+      body {
+        font-family:Sans-serif, Arial; font-size: 100%; 
+        background-color: rgb(255,255,255); 
+        overflow-x:hidden;
+        margin-left:5em;
+        margin-right:5em;
+        border-left-style: groove; 
+        border-right-style: groove;
+      }
+      h1 {
+        font-size: 1.4em; text-transform: uppercase;
+      }
+      h2 {
+        font-size: .94em; text-transform: uppercase;
+      }
+      h3 {  
+        font-size: .87em;
+      }         
+      p, ul, ol {
+        font-size: .87em;
+      }
+     
+      input {margin:3px;}      
+
+      #email {position:relative; left:14px;}
+
+      #mezera {font-size: 1em; border-top:solid;}
+	
+      #textar {position:relative; bottom:51px; left:250px;}
+    	
+      .a10 {border-left:solid 1px; padding-left:5px;}
+
+      .datum {margin:0px; margin-bottom:5px; font-size:.7em;}    
+                
+      #tlacitko {margin: .5em; position:relative; left:176px; bottom:20px;}
+      textarea {position:relative; left:50px; bottom:20px;}
+
+      form {position: relative; top:20px; left: 100px;}
+     
+      header, footer {
+        padding: .01em; 
+        background-color: rgb(100,230,0); 
+        text-align: center;
+      }
+	
+      #rek {color:black; margin:5px; padding-top:2px;}
+
+     
+ 
+      
